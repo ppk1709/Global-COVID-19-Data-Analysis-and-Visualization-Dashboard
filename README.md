@@ -15,7 +15,7 @@
 | **SQL (MySQL / SQL Server)** | Data cleaning, filtering, and aggregation |
 | **Tableau** | Interactive visualization and dashboard creation |
 | **Excel** | Raw data source and preprocessing |
-| **Data Source** | Public datasets (e.g., WHO, Our World in Data) |
+| **Data Source** | Covid 19- 'Our world in data' |
 
 ---
 
